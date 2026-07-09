@@ -1,6 +1,26 @@
 [[themes]]
 name = "Afterglow Red"
 
+[themes.palette]
+background = "#202020"
+foreground = "#ffffff"
+black = "#111111"
+red = "#AC4142"
+green = "#AC4142"
+yellow = "#ff7700"
+blue = "#AC4142"
+magenta = "#AC4142"
+cyan = "#AC4142"
+white = "#999999"
+bright_black = "#333333"
+bright_red = "#AC4142"
+bright_green = "#AC4142"
+bright_yellow = "#ff7700"
+bright_blue = "#AC4142"
+bright_magenta = "#AC4142"
+bright_cyan = "#AC4142"
+bright_white = "#ffffff"
+
 [themes.component_style]
 selection = { bg = "#333333", modifiers = ["Bold"] }
 block_title = { fg = "#AC4142", modifiers = ["Bold"] }
@@ -18,6 +38,26 @@ playlist_desc = { fg = "#666666" }
 
 [[themes]]
 name = "Afterglow Yellow"
+
+[themes.palette]
+background = "#202020"
+foreground = "#ffffff"
+black = "#111111"
+red = "#E5B566"
+green = "#E5B566"
+yellow = "#ff7700"
+blue = "#E5B566"
+magenta = "#E5B566"
+cyan = "#E5B566"
+white = "#999999"
+bright_black = "#333333"
+bright_red = "#E5B566"
+bright_green = "#E5B566"
+bright_yellow = "#ff7700"
+bright_blue = "#E5B566"
+bright_magenta = "#E5B566"
+bright_cyan = "#E5B566"
+bright_white = "#ffffff"
 
 [themes.component_style]
 selection = { bg = "#333333", modifiers = ["Bold"] }
@@ -37,6 +77,26 @@ playlist_desc = { fg = "#666666" }
 [[themes]]
 name = "Afterglow Blue"
 
+[themes.palette]
+background = "#202020"
+foreground = "#ffffff"
+black = "#111111"
+red = "#6C99BA"
+green = "#6C99BA"
+yellow = "#ff7700"
+blue = "#6C99BA"
+magenta = "#6C99BA"
+cyan = "#6C99BA"
+white = "#999999"
+bright_black = "#333333"
+bright_red = "#6C99BA"
+bright_green = "#6C99BA"
+bright_yellow = "#ff7700"
+bright_blue = "#6C99BA"
+bright_magenta = "#6C99BA"
+bright_cyan = "#6C99BA"
+bright_white = "#ffffff"
+
 [themes.component_style]
 selection = { bg = "#333333", modifiers = ["Bold"] }
 block_title = { fg = "#6C99BA", modifiers = ["Bold"] }
@@ -54,6 +114,26 @@ playlist_desc = { fg = "#666666" }
 
 [[themes]]
 name = "Afterglow Green"
+
+[themes.palette]
+background = "#202020"
+foreground = "#ffffff"
+black = "#111111"
+red = "#7E8D50"
+green = "#7E8D50"
+yellow = "#ff7700"
+blue = "#7E8D50"
+magenta = "#7E8D50"
+cyan = "#7E8D50"
+white = "#999999"
+bright_black = "#333333"
+bright_red = "#7E8D50"
+bright_green = "#7E8D50"
+bright_yellow = "#ff7700"
+bright_blue = "#7E8D50"
+bright_magenta = "#7E8D50"
+bright_cyan = "#7E8D50"
+bright_white = "#ffffff"
 
 [themes.component_style]
 selection = { bg = "#333333", modifiers = ["Bold"] }
@@ -73,6 +153,26 @@ playlist_desc = { fg = "#666666" }
 [[themes]]
 name = "Afterglow Magenta"
 
+[themes.palette]
+background = "#202020"
+foreground = "#ffffff"
+black = "#111111"
+red = "#9E4E85"
+green = "#9E4E85"
+yellow = "#ff7700"
+blue = "#9E4E85"
+magenta = "#9E4E85"
+cyan = "#9E4E85"
+white = "#999999"
+bright_black = "#333333"
+bright_red = "#9E4E85"
+bright_green = "#9E4E85"
+bright_yellow = "#ff7700"
+bright_blue = "#9E4E85"
+bright_magenta = "#9E4E85"
+bright_cyan = "#9E4E85"
+bright_white = "#ffffff"
+
 [themes.component_style]
 selection = { bg = "#333333", modifiers = ["Bold"] }
 block_title = { fg = "#9E4E85", modifiers = ["Bold"] }
@@ -91,6 +191,26 @@ playlist_desc = { fg = "#666666" }
 [[themes]]
 name = "Afterglow Cyan"
 
+[themes.palette]
+background = "#202020"
+foreground = "#ffffff"
+black = "#111111"
+red = "#7DD5CF"
+green = "#7DD5CF"
+yellow = "#ff7700"
+blue = "#7DD5CF"
+magenta = "#7DD5CF"
+cyan = "#7DD5CF"
+white = "#999999"
+bright_black = "#333333"
+bright_red = "#7DD5CF"
+bright_green = "#7DD5CF"
+bright_yellow = "#ff7700"
+bright_blue = "#7DD5CF"
+bright_magenta = "#7DD5CF"
+bright_cyan = "#7DD5CF"
+bright_white = "#ffffff"
+
 [themes.component_style]
 selection = { bg = "#333333", modifiers = ["Bold"] }
 block_title = { fg = "#7DD5CF", modifiers = ["Bold"] }
@@ -108,6 +228,26 @@ playlist_desc = { fg = "#666666" }
 
 [[themes]]
 name = "Afterglow Orange (custom)"
+
+[themes.palette]
+background = "#202020"
+foreground = "#ffffff"
+black = "#111111"
+red = "#cc6b53"
+green = "#cc6b53"
+yellow = "#ff7700"
+blue = "#cc6b53"
+magenta = "#cc6b53"
+cyan = "#cc6b53"
+white = "#999999"
+bright_black = "#333333"
+bright_red = "#cc6b53"
+bright_green = "#cc6b53"
+bright_yellow = "#ff7700"
+bright_blue = "#cc6b53"
+bright_magenta = "#cc6b53"
+bright_cyan = "#cc6b53"
+bright_white = "#ffffff"
 
 [themes.component_style]
 selection = { bg = "#333333", modifiers = ["Bold"] }
