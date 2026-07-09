@@ -1,0 +1,125 @@
+[[themes]]
+name = "Afterglow Red"
+
+[themes.component_style]
+selection = { bg = "#333333", modifiers = ["Bold"] }
+block_title = { fg = "#AC4142", modifiers = ["Bold"] }
+playback_track = { fg = "#ffffff", modifiers = ["Bold"] }
+playback_album = { fg = "#AC4142" }
+playback_metadata = { fg = "#666666" }
+playback_progress_bar = { bg = "#333333", fg = "#AC4142" }
+current_playing = { fg = "#AC4142", modifiers = ["Bold"] }
+page_desc = { fg = "#AC4142", modifiers = ["Bold"] }
+table_header = { fg = "#999999", modifiers = ["Bold"] }
+border = { fg = "#333333" }
+playback_status = { fg = "#AC4142", modifiers = ["Bold"] }
+playback_artists = { fg = "#AC4142", modifiers = ["Bold"] }
+playlist_desc = { fg = "#666666" }
+
+[[themes]]
+name = "Afterglow Yellow"
+
+[themes.component_style]
+selection = { bg = "#333333", modifiers = ["Bold"] }
+block_title = { fg = "#E5B566", modifiers = ["Bold"] }
+playback_track = { fg = "#ffffff", modifiers = ["Bold"] }
+playback_album = { fg = "#E5B566" }
+playback_metadata = { fg = "#666666" }
+playback_progress_bar = { bg = "#333333", fg = "#E5B566" }
+current_playing = { fg = "#E5B566", modifiers = ["Bold"] }
+page_desc = { fg = "#E5B566", modifiers = ["Bold"] }
+table_header = { fg = "#999999", modifiers = ["Bold"] }
+border = { fg = "#333333" }
+playback_status = { fg = "#E5B566", modifiers = ["Bold"] }
+playback_artists = { fg = "#E5B566", modifiers = ["Bold"] }
+playlist_desc = { fg = "#666666" }
+
+[[themes]]
+name = "Afterglow Blue"
+
+[themes.component_style]
+selection = { bg = "#333333", modifiers = ["Bold"] }
+block_title = { fg = "#6C99BA", modifiers = ["Bold"] }
+playback_track = { fg = "#ffffff", modifiers = ["Bold"] }
+playback_album = { fg = "#6C99BA" }
+playback_metadata = { fg = "#666666" }
+playback_progress_bar = { bg = "#333333", fg = "#6C99BA" }
+current_playing = { fg = "#6C99BA", modifiers = ["Bold"] }
+page_desc = { fg = "#6C99BA", modifiers = ["Bold"] }
+table_header = { fg = "#999999", modifiers = ["Bold"] }
+border = { fg = "#333333" }
+playback_status = { fg = "#6C99BA", modifiers = ["Bold"] }
+playback_artists = { fg = "#6C99BA", modifiers = ["Bold"] }
+playlist_desc = { fg = "#666666" }
+
+[[themes]]
+name = "Afterglow Green"
+
+[themes.component_style]
+selection = { bg = "#333333", modifiers = ["Bold"] }
+block_title = { fg = "#7E8D50", modifiers = ["Bold"] }
+playback_track = { fg = "#ffffff", modifiers = ["Bold"] }
+playback_album = { fg = "#7E8D50" }
+playback_metadata = { fg = "#666666" }
+playback_progress_bar = { bg = "#333333", fg = "#7E8D50" }
+current_playing = { fg = "#7E8D50", modifiers = ["Bold"] }
+page_desc = { fg = "#7E8D50", modifiers = ["Bold"] }
+table_header = { fg = "#999999", modifiers = ["Bold"] }
+border = { fg = "#333333" }
+playback_status = { fg = "#7E8D50", modifiers = ["Bold"] }
+playback_artists = { fg = "#7E8D50", modifiers = ["Bold"] }
+playlist_desc = { fg = "#666666" }
+
+[[themes]]
+name = "Afterglow Magenta"
+
+[themes.component_style]
+selection = { bg = "#333333", modifiers = ["Bold"] }
+block_title = { fg = "#9E4E85", modifiers = ["Bold"] }
+playback_track = { fg = "#ffffff", modifiers = ["Bold"] }
+playback_album = { fg = "#9E4E85" }
+playback_metadata = { fg = "#666666" }
+playback_progress_bar = { bg = "#333333", fg = "#9E4E85" }
+current_playing = { fg = "#9E4E85", modifiers = ["Bold"] }
+page_desc = { fg = "#9E4E85", modifiers = ["Bold"] }
+table_header = { fg = "#999999", modifiers = ["Bold"] }
+border = { fg = "#333333" }
+playback_status = { fg = "#9E4E85", modifiers = ["Bold"] }
+playback_artists = { fg = "#9E4E85", modifiers = ["Bold"] }
+playlist_desc = { fg = "#666666" }
+
+[[themes]]
+name = "Afterglow Cyan"
+
+[themes.component_style]
+selection = { bg = "#333333", modifiers = ["Bold"] }
+block_title = { fg = "#7DD5CF", modifiers = ["Bold"] }
+playback_track = { fg = "#ffffff", modifiers = ["Bold"] }
+playback_album = { fg = "#7DD5CF" }
+playback_metadata = { fg = "#666666" }
+playback_progress_bar = { bg = "#333333", fg = "#7DD5CF" }
+current_playing = { fg = "#7DD5CF", modifiers = ["Bold"] }
+page_desc = { fg = "#7DD5CF", modifiers = ["Bold"] }
+table_header = { fg = "#999999", modifiers = ["Bold"] }
+border = { fg = "#333333" }
+playback_status = { fg = "#7DD5CF", modifiers = ["Bold"] }
+playback_artists = { fg = "#7DD5CF", modifiers = ["Bold"] }
+playlist_desc = { fg = "#666666" }
+
+[[themes]]
+name = "Afterglow Orange (custom)"
+
+[themes.component_style]
+selection = { bg = "#333333", modifiers = ["Bold"] }
+block_title = { fg = "#cc6b53", modifiers = ["Bold"] }
+playback_track = { fg = "#ffffff", modifiers = ["Bold"] }
+playback_album = { fg = "#cc6b53" }
+playback_metadata = { fg = "#666666" }
+playback_progress_bar = { bg = "#333333", fg = "#cc6b53" }
+current_playing = { fg = "#cc6b53", modifiers = ["Bold"] }
+page_desc = { fg = "#cc6b53", modifiers = ["Bold"] }
+table_header = { fg = "#999999", modifiers = ["Bold"] }
+border = { fg = "#333333" }
+playback_status = { fg = "#cc6b53", modifiers = ["Bold"] }
+playback_artists = { fg = "#cc6b53", modifiers = ["Bold"] }
+playlist_desc = { fg = "#666666" }
